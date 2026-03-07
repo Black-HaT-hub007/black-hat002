@@ -16,5 +16,12 @@
         "key": "qureshi78",
         "expirydate": "8-03-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "684ea0a70cf9f04b",
+        "username": "user2",
+        "password": "qureshi786",
+        "expirydate": "10-03-2026",
+        "Allowoffline": false
     }
 ]
