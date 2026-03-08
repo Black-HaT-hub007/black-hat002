@@ -9,13 +9,13 @@
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
+       "Allowoffline": false
+    },   
     {
         "device_id": "684ea0a70cf9f04b",
-        "key": "qureshi78",
-        "expirydate": "20-03-2026",
-        "Allowoffline": false
+        "key": "qureshi",
+        "expirydate": "10-12-2026",
+        "Allowoffline": true
     }
     
 ]
