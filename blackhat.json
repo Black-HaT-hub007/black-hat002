@@ -16,6 +16,11 @@
         "key": "qureshi",
         "expirydate": "10-12-2026",
         "Allowoffline": true
-    }
-    
+    },
+    {
+    1   "device_id": "1f1abd6703e794f2",
+        "key": "black1",
+        "expirydate": "10-03-2026",
+       "Allowoffline": false
+    }   
 ]
